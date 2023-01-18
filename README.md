@@ -6,6 +6,6 @@
 
 
 ### 📂 파일 설명
-- 화난 사람들 홈페이지 스크래핑 코드
-- 화난 사람들 최종 보고서
-- 화난 사람들 엑셀 파일
+- Numbling_Scrapping_Code: 화난 사람들 홈페이지 스크래핑 코드
+- Numbling_Final_Report: 화난 사람들 최종 보고서
+- Numbling_Excelfile: 화난 사람들 엑셀 파일
