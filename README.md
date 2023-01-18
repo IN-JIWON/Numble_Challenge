@@ -1,3 +1,5 @@
+<div align="center">
+<h1>  <img width="30" src="https://velog.velcdn.com/images/injiwon/post/7593c6dd-94f5-4548-b772-42db890d1c92/image.png"></h1>
 # Numbling_Challenge
 
 ### 📂 프로젝트 개요
